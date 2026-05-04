@@ -1,3 +1,10 @@
 *.csv
 *.pkl
 *.pickle
+*.pt
+sem2/GTEx_Analysis_2025-08-22_v11_RNASeQCv2.4.3_gene_tpm.gct.gz
+sem2/GTEx_Analysis_v11_Annotations_SampleAttributesDS.txt
+*.pt
+*.pt
+*.pt
+sem2/edges.txt
